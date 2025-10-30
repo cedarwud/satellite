@@ -1,3 +1,5 @@
+請 ultrathink 仔細閱讀 @TODO.md 之後開始進行開發，請一併閱讀 @NEW.md 跟 @README.md ，應該會需要先執行 @orbit-engine/ 來生成 @handover-rl 所需要的數據
+
   ---
   🎯 開始 D2 Integration Phase 1b - DQN 訓練
 
